@@ -31,7 +31,7 @@ nav {
 
 .logo {
     color: white;
-    font-size: 24px;
+    font-size: 24PX;
     font-weight: bold;
 }
 
@@ -48,7 +48,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    color: #e94560;
+    color: #06134e;
 }
 
 
@@ -75,11 +75,11 @@ nav ul li a:hover {
 }
 
 .highlight {
-    color: #e94560;
+    color: #25065c;
 }
 
 .btn {
-    background-color: #e94560;
+    background-color: #47020d;
     color: white;
     padding: 12px 35px;
     border: none;
@@ -108,7 +108,7 @@ nav ul li a:hover {
     font-size: 36px;
     margin-bottom: 20px;
     color: #1a1a2e;
-    border-bottom: 3px solid #e94560;
+    border-bottom: 3px solid #720b1c;
     display: inline-block;
     padding-bottom: 5px;
 }
